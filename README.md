@@ -67,7 +67,7 @@ Before running this project, ensure that you have the following installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ahmad-Chebbo/shopping-basket.git
 ```
 
 Install the PHP dependencies:
